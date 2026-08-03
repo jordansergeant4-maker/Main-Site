@@ -7,12 +7,12 @@ export function Page2(){
         {
             src: "/WebP/digital/Travel design 1.webp",
             label: "Travel Design (Tokyo, 2024)",
-            description: "A digital concept study exploring composition, atmosphere, and pacing.",
+            description: "",
         },
         {
             src: "/WebP/digital/jenna png.webp",
             label: "Commissioned Digital Painting (2026)",
-            description: "A commissioned portrait painting with rich tonal depth and color direction.",
+            description: "",
         },
     ];
 
